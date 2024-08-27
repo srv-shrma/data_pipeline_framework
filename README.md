@@ -148,10 +148,4 @@ sqlite3 /path/to/data_pipeline.db
 SELECT * FROM pipeline_run;
 ```
 
-### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust any sections as needed!
