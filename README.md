@@ -1,4 +1,4 @@
-Here's a well-documented `README.md` file for your `data_pipeline_framework` project:
+Here's a well-documented `README.md` file for `data_pipeline_framework` project:
 
 ---
 
